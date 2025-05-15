@@ -129,6 +129,10 @@ Paper,15.3,6.5,55.4,1.0,60,0.8
 
 If your dataset doesn't include nutrient content (N, P, K), the application will generate synthetic values for demonstration purposes. For accurate predictions, include actual nutrient measurements in your dataset. 
 
+## Future Work
+
+We have the OneEartForm- (a website which has the complete frontend and backend integration) you can integrate both the projects and create a single website which shows the accurate prediction of the product and then make users to pick the accurate one by checking the prediction and the recomendation of the product.
+
 
 ## SnapShots:
 ![image](https://github.com/user-attachments/assets/df3cad64-b9a4-40f1-96e3-480b185809e4)
