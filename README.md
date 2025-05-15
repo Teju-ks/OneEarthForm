@@ -128,3 +128,11 @@ Paper,15.3,6.5,55.4,1.0,60,0.8
 ## Note
 
 If your dataset doesn't include nutrient content (N, P, K), the application will generate synthetic values for demonstration purposes. For accurate predictions, include actual nutrient measurements in your dataset. 
+
+
+## SnapShots:
+![image](https://github.com/user-attachments/assets/df3cad64-b9a4-40f1-96e3-480b185809e4)
+![image](https://github.com/user-attachments/assets/59863a5c-9e0e-4e5d-bf50-b5436fed0589)
+![image](https://github.com/user-attachments/assets/1361144c-3b23-4501-8e7c-718ff090f91d)
+![image](https://github.com/user-attachments/assets/4d48f664-57f7-4d9c-af49-18d6d792f0ff)
+![image](https://github.com/user-attachments/assets/da0a269e-2b2f-4e5b-b13f-b310b3ea30e5)
